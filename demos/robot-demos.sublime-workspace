@@ -1,0 +1,938 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Cate",
+				"categoryLink"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "led_dance.rb",
+			"settings":
+			{
+				"buffer_size": 435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game_app.rb",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game.rb",
+			"settings":
+			{
+				"buffer_size": 745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game_sphero.rb",
+			"settings":
+			{
+				"buffer_size": 241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sphero_pebble.rb",
+			"settings":
+			{
+				"buffer_size": 751,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pebble.js",
+			"settings":
+			{
+				"buffer_size": 727,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sphero.go",
+			"settings":
+			{
+				"buffer_size": 828,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"gist",
+				"GitHub: Open Gist in Browser"
+			],
+			[
+				"private",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"github",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"open",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"cucumber",
+				"Gherkin/Cucumber: Format"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"seeing",
+				"Seeing Is Believing: Evaluate"
+			],
+			[
+				"seein",
+				"Seeing Is Believing: Evaluate"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"Set Syntax: Ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packer",
+				"Package Control: Install Package"
+			],
+			[
+				"Paga",
+				"Package Control: Install Package"
+			],
+			[
+				":cnext",
+				"Bookmarks: Select Next"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/solojavier/go/src/github.com/hybridgroup/gobot/platforms/pebble/pebble_driver.go",
+		"/Users/solojavier/go/src/github.com/hybridgroup/gobot/platforms/pebble/pebble_driver_test.go",
+		"/Users/solojavier/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/solojavier/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/solojavier/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/solojavier/Downloads/Flat-UI-master 2/README.md",
+		"/Users/solojavier/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/solojavier/github/solojavier/sphero-guess-color-game/views/index.erb",
+		"/Users/solojavier/github/hybridgroup/cylon-sphero/examples/pebble/pebble.js",
+		"/Users/solojavier/github/hybridgroup/chomps/chomps/pebble-js-app.js",
+		"/Users/solojavier/github/hybridgroup/chomps/wscript",
+		"/Users/solojavier/Desktop/autoloader/wscript",
+		"/Users/solojavier/Desktop/autoloader/appinfo.json",
+		"/Users/solojavier/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/solojavier/Desktop/index.html",
+		"/Users/solojavier/github/hybridgroup/artoo-sphero/artoo-sphero.gemspec",
+		"/Users/solojavier/github/solojavier/inspira/index.html",
+		"/Users/solojavier/github/solojavier/en_inspiracion/index_footer.html",
+		"/Users/solojavier/github/solojavier/sphero-guess-color-game/game.rb",
+		"/Users/solojavier/Desktop/Developer/samples/inspira/index.html",
+		"/Users/solojavier/Downloads/startup-demo-master/Developer/samples/sample-04/index.html",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/vendor/assets/ember/development/ember.js",
+		"/Users/solojavier/github/solojavier/taxa/lib/taxa/views/index.erb",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/ordered/app.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/app.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/collection.hbs",
+		"/Users/solojavier/github/solojavier/taxisaeropuertoguadalajara/index.html",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/vendor/assets/ember/production/ember.js",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/views/home/index.html.haml",
+		"/Users/solojavier/github/solojavier/taxisaeropuertoguadalajara/css/styles.css",
+		"/Users/solojavier/github/solojavier/taxa/lib/taxa/views/layout.erb",
+		"/Users/solojavier/github/solojavier/taxa/lib/taxa/public/sitemap.xml",
+		"/Users/solojavier/github/solojavier/taxa/lib/taxa/public/rss.xml",
+		"/Users/solojavier/Desktop/TAXIS AL AEROPUERTO DE GUADALAJARA ECONÓMICO, FÁCI",
+		"/Users/solojavier/Desktop/zapatoadomicilio/index..html",
+		"/Users/solojavier/github/solojavier/taxa-android/TaxaApp/project.properties",
+		"/Users/solojavier/github/solojavier/taxa-android/TaxaApp/build.gradle",
+		"/Users/solojavier/github/solojavier/taxa-android/build.gradle",
+		"/Users/solojavier/Downloads/glance/appinfo.json",
+		"/Users/solojavier/github/solojavier/taxa-android/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/solojavier/Downloads/glance/manifest.json",
+		"/Users/solojavier/Downloads/tasker/appinfo.json",
+		"/Users/solojavier/Downloads/smartstatus/appinfo.json",
+		"/Users/solojavier/Downloads/smartstatus/manifest.json",
+		"/Users/solojavier/Downloads/dotz (1)/manifest.json",
+		"/Users/solojavier/Downloads/twizy_elia_uhr/manifest.json",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/type.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/tag/type.hbs",
+		"/Users/solojavier/Downloads/JSBridgeApi/pebble_native_js_bridge.js",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/tag.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/_collections.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/application.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/index.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/categories.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/application.js",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/views/applications/show.html.haml",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/views/applications/_releases.html.haml",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/controllers/admin/collections_controller.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/applications/tag.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/controllers/app_controller.js.coffee",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/features/app_profile.feature",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/models/application.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/controllers/applications_controller.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/controllers/admin_controller.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/Gemfile",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/spec/api/app_spec.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/.env",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/controllers/application_controller.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/assets/images/chosen-sprite.png",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/spec/controllers/applications_controller_spec.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/pebble-dev-portal/spec/api/app_spec.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/pebble-dev-portal/app/models/application.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/pebble-dev-portal/app/controllers/admin/collections_controller.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/pebble-dev-portal/app/controllers/admin/applications_controller.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/pebble-dev-portal/app/models/category.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/pebble-dev-portal/app/views/admin/collections/_form.html.haml",
+		"/Users/solojavier/github/rspec_all.sublime-build",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/controllers/admin/applications_controller.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/spec/spec_helper.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/controllers/admin/categories_controller.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/spec/models/application_spec.rb",
+		"/Users/solojavier/Library/Application Support/Sublime Text 3/Packages/RubyTest/RubyTest.sublime-settings",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/features/app_approval.feature",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/lib/spec_helper.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/spec/support/jsonapi.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/spec/controllers/companions_controller_spec.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/spec/api/root_spec.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/controllers/companions_controller.rb",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/features/app_release.feature",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/assets/javascripts/application.js",
+		"/Users/solojavier/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/views/home/privacy_policy_text.html",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/views/terms_of_use.html",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/views/developers/agreement.html.haml",
+		"/Users/solojavier/github/hybridgroup/pebble-dev-portal/app/views/developers/agreement_test.html",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/categories/index.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/components/ui-slider.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/featured.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/app/assets/javascripts/templates/category/app.hbs",
+		"/Users/solojavier/github/hybridgroup/pebble-appstore/vendor/assets/ember/development/ember-data.js",
+		"/Users/solojavier/Downloads/JSBridge_Reference_Code/pebble_native_js_bridge.js",
+		"/Users/solojavier/Downloads/JSBridge_Reference_Code/test_app_store.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"app/*",
+			"",
+			"app/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"100%",
+			"bor",
+			"bordered",
+			"events",
+			"touch",
+			"handler",
+			"prod",
+			"gon.global",
+			"gon",
+			"install_link",
+			"Collectionn",
+			"Collection",
+			"Tag",
+			"haml",
+			"application",
+			"Application",
+			"application",
+			"Application",
+			"application",
+			"Application",
+			"application",
+			"Application",
+			"application",
+			"before_filter",
+			"end",
+			"params",
+			"meta_options",
+			"order",
+			"ENV",
+			"load",
+			"before_filter",
+			"set_applications",
+			"collection",
+			"\n        ",
+			"@c",
+			"collection",
+			"end",
+			"@release",
+			"release",
+			"\"Index\"",
+			"\\.all",
+			"*\\.all",
+			"Application.all",
+			"collection",
+			"set_appl",
+			"cached_tags",
+			"it_behaves_like",
+			"application.type",
+			"Application",
+			"release",
+			"user",
+			"Application",
+			"something",
+			"find"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"route",
+			"somethingelse"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "led_dance.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_gluing_sequence": false,
+								"_vintageous_non_interactive": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"dd",
+									"mode_internal_normal",
+									null
+								],
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 13,
+							"vintage_lines.lines": 23,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "game_app.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_gluing_sequence": false,
+								"_vintageous_non_interactive": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"dd",
+									"mode_internal_normal",
+									null
+								],
+								"sequence": "",
+								"xpos": 21
+							},
+							"vintage_lines.line": 0,
+							"vintage_lines.lines": 23,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "game.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 0,
+							"vintage_lines.lines": 42,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 547.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "game_sphero.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 14
+							},
+							"vintage_lines.line": 8,
+							"vintage_lines.lines": 11,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sphero_pebble.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_gluing_sequence": false,
+								"_vintageous_non_interactive": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"dd",
+									"mode_internal_normal",
+									null
+								],
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 0,
+							"vintage_lines.lines": 41,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pebble.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 0,
+							"vintage_lines.lines": 37,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 402.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sphero.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 57
+							},
+							"vintage_lines.line": 21,
+							"vintage_lines.lines": 37,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 299.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/solojavier/go/src/github.com/hybridgroup/gobot/platforms/pebble":
+	{
+		"height": 292.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 347.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.vi_out":
+	{
+		"height": 112.0
+	},
+	"project": "robot-demos.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"applicatio",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"router",
+				"app/assets/javascripts/router.js.coffee"
+			],
+			[
+				"hbs",
+				"app/assets/javascripts/templates/category.hbs"
+			],
+			[
+				"views/categ",
+				"app/assets/javascripts/views/categories_index_view.js.coffee"
+			],
+			[
+				"categories",
+				"app/assets/javascripts/models/categories.js.coffee"
+			],
+			[
+				"appplication.js",
+				"app/assets/javascripts/models/application.js.coffee"
+			],
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"models/app",
+				"app/assets/javascripts/models/application.js.coffee"
+			],
+			[
+				"app.hbs",
+				"app/assets/javascripts/templates/app.hbs"
+			],
+			[
+				"application.rb",
+				"app/models/application.rb"
+			],
+			[
+				"spec",
+				"spec/api/app_spec.rb"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				"feature",
+				"features/app_profile.feature"
+			],
+			[
+				"application_contr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applications_con",
+				"app/controllers/applications_controller.rb"
+			],
+			[
+				"sp",
+				"spec/spec_helper.rb"
+			],
+			[
+				"category",
+				"app/models/category.rb"
+			],
+			[
+				"model/app",
+				"app/models/application.rb"
+			],
+			[
+				"companion",
+				"app/controllers/companions_controller.rb"
+			],
+			[
+				"companions_con",
+				"spec/controllers/companions_controller_spec.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"spec/root_spec",
+				"spec/api/root_spec.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
